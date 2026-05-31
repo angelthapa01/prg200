@@ -1,4 +1,3 @@
-# Online Store Discount System
 
 # taking input from user
 purchase = float(input("Enter total purchase amount: "))
